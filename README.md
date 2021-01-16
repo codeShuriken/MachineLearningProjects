@@ -1,2 +1,2 @@
 # MachineLearningProjects
-Implementing Machine Learning Algorithms from Scratch
+Implementing Machine Learning Algorithms from scratch.
